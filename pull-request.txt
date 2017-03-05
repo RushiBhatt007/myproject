@@ -1,4 +1,2 @@
-hi
+
 myproject Parthav46 newfile1.txt
-hello
-hi
