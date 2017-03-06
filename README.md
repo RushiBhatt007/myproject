@@ -1,3 +1,3 @@
 Hello 
-+ Hi there
-+ This is for testing new lines
+Hi there
+- This is for testing new lines
