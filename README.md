@@ -1,3 +1,3 @@
 Hello 
-<n>Hi there
-<n>This is for testing new lines
+<br>Hi there
+<br>This is for testing new lines
