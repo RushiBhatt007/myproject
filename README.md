@@ -1,3 +1,3 @@
 Hello 
 Hi there
-- This is for testing new lines
+\n This is for testing new lines
